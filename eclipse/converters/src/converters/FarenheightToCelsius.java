@@ -1,8 +1,13 @@
+/*
+ * FarenheightToCelsuis.java
+ * Jayden Guina-ao
+ * Part of converters
+ */
 package converters;
 
 import java.util.*;
 
-public class FarenheightToCelsuis {
+public class FarenheightToCelsius {
 
 	public static void main(String[] args) {
 		// Prepare
